@@ -1,4 +1,6 @@
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DeepInTheCode)](https://github.com/KnlnKS/leetcode-stats)
+|[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DeepInTheCode)](https://leetcode.com/DeepInTheCode/)|
+|:--:|
+|LeetCode Stats|
 
 <!--
 **DeepInTheCode/DeepInTheCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
