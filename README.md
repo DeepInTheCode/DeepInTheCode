@@ -1,4 +1,4 @@
-|[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DeepInTheCode)](https://leetcode.com/DeepInTheCode/)|
+|[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DeepInTheCode&theme=dark)](https://leetcode.com/DeepInTheCode/)|
 |:--:|
 |LeetCode Stats|
 
